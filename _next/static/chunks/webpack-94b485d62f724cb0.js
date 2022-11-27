@@ -112,7 +112,7 @@
 /******/ 		// This function allow to reference async chunks
 /******/ 		__webpack_require__.u = function(chunkId) {
 /******/ 			// return url for filenames based on template
-/******/ 			return "static/chunks/" + chunkId + "." + {"336":"588a1ee5255f8455","812":"afd1c1a71eb89f86"}[chunkId] + ".js";
+/******/ 			return "static/chunks/" + chunkId + "." + {"336":"588a1ee5255f8455","812":"03f288900dbefd4d"}[chunkId] + ".js";
 /******/ 		};
 /******/ 	}();
 /******/ 	
@@ -223,7 +223,7 @@
 /******/ 	
 /******/ 	/* webpack/runtime/publicPath */
 /******/ 	!function() {
-/******/ 		__webpack_require__.p = "/04-zkapp//_next/";
+/******/ 		__webpack_require__.p = "/04-zkapp-browser-ui//_next/";
 /******/ 	}();
 /******/ 	
 /******/ 	/* webpack/runtime/jsonp chunk loading */
